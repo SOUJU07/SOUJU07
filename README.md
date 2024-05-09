@@ -10,7 +10,6 @@ On my GitHub profile, you will find a variety of projects and repositories that 
 
 ## My Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SOUJU07&show_icons=true&theme=transparent)
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=SOUJU07)
 
