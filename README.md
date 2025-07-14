@@ -2,12 +2,21 @@
 
 #### About Me
 
-Welcome to my GitHub profile! I am a Salesforce developer who is passionate about data science and looking to transition my career into this field. I have a strong background in Python, SQL, and data visualization, and I am excited to continue to grow my skills and experience in the field of data science.
+Welcome to my GitHub!
 
-As a beginner in statistics, I am currently dedicated to learning more about statistical concepts and techniques, and I am constantly working on building my knowledge and skills in this area. I believe that data science is a powerful tool that can be used to solve complex problems, and I am eager to apply my skills and expertise to contribute to meaningful projects.
+I'm a full-time Data Analyst with around 3 years of experience working across the data lifecycle — from extraction and transformation to visualization and business decision support. My day-to-day revolves around using SQL, Python (Pandas/Numpy), and Power BI to drive data-backed decisions across teams.
 
-On my GitHub profile, you will find a variety of projects and repositories that showcase my skills in Python, SQL, and data visualization. I am always looking for ways to collaborate and learn from others, so please feel free to reach out if you would like to work together or provide any feedback on my projects. Thank you for visiting my profile, and I look forward to connecting with you!
+I regularly query and manipulate large datasets for use cases like lead tracking, campaign performance, and sales/product analytics. For deeper data wrangling and enrichment, I use Python — often automating repetitive tasks or modeling complex logic when SQL alone doesn’t cut it.
 
+Much of my work goes into building interactive and insightful dashboards in Power BI, writing custom DAX measures and optimizing report performance using tools like DAX Studio and Power Query.
+
+Collaboration is also a key part of my workflow — gathering requirements from cross-functional stakeholders (like sales and marketing), presenting actionable insights to business leads, and refining solutions based on feedback.
+
+You’ll also find me troubleshooting data pipeline issues, standardizing KPIs/metrics, mentoring junior analysts, and contributing to documentation and reporting automation efforts.
+
+On this GitHub, I share projects that reflect my skills and interests — from SQL and data transformation scripts to Python notebooks and Power BI dashboards. I'm always open to learning, collaborating, and exchanging ideas, so feel free to explore or reach out.
+
+Thanks for stopping by!
 ## My Github Stats
 
 
